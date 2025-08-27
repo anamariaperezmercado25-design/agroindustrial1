@@ -8,6 +8,6 @@ este es el primer proyecto de control de versiones en **github** con **git** y c
 
 area=b*h/2
 
-$area=\frac{b * h}(2) $
+$area=\frac{b * h}{2} $
 
-$media = \frac{\sum_{i=1}^n(X_i){n}$
+$media = \frac{\sum_{i=1}^n(X_i)}{n} $
